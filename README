@@ -1,0 +1,14 @@
+Title: 99Bottles
+Author: Emily McCauley
+Environment: IntelliJ 15.0.3
+
+The goal of the project is to meet the specification of Assignment 2 for CIT337.
+This program will interate the song 99 Bottles of Beer on the Wall.
+
+*----------------------------------------------------------------------------------
+99 bottles of beer on the wall, 99 bottles of beer
+take one down, pass it aroung 98 bottles of beer on the wall....
+*----------------------------------------------------------------------------------
+
+Once there is no more bottles of beer, it will state that:
+take one down, pass it around, no more bottles of beer on the wall.
