@@ -1,14 +1,19 @@
-Title: 99Bottles
+Title: BeerSong.java
 Author: Emily McCauley
 Environment: IntelliJ 15.0.3
+Java Version: 8.71
 
 The goal of the project is to meet the specification of Assignment 2 for CIT337.
-This program will interate the song 99 Bottles of Beer on the Wall.
+This program will interate the song 99 Bottles of Beer on the Wall, as follows:
 
 *----------------------------------------------------------------------------------
 99 bottles of beer on the wall, 99 bottles of beer
 take one down, pass it aroung 98 bottles of beer on the wall....
 *----------------------------------------------------------------------------------
 
-Once there is no more bottles of beer, it will state that:
+Once there is 2 more bottles of beer, it will state that:
+*----------------------------------------------------------------------------------
+2 bottles of beer on the wall, 2 bottles of beer
+take one down, pass	it around, 1 bottle of beer on the wall.
+1 bottle of	beer on	the	wall, 1	bottle of beer
 take one down, pass it around, no more bottles of beer on the wall.
