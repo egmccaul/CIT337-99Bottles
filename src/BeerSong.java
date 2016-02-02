@@ -11,6 +11,9 @@ public class BeerSong {
 
     public static void Ninety_Nine_Bottles_of_Beer(){
 
+        // Create a nice header for the Beer Song
+        System.out.println("***************************** Beer Song ***************************\n");
+
         // Creates a loop that counts down from 99.
         // In this loop, it will output the verses of the Beer Song until it reaches 1 bottle
         for (int i=99; i > 1; i--){
@@ -21,5 +24,9 @@ public class BeerSong {
         // Once there it one bottle left the song will change to output below.
         System.out.println("1 bottle of	beer on	the	wall, 1	bottle of beer");
         System.out.println("take one down, pass	it around, no more bottles of beer on the wall.");
+
+        // Create a line of *s to show that output has ended.
+        System.out.println("\n*****************************************************************\n");
+
     }
 }
